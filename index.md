@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/aichas2962/aichas2962.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to my page! im pleased to see you want to learn more about me. I will now show you through pictures some of my interests. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -11,7 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# Favorite Apps
+![Snapchat!](https://cdn.worldvectorlogo.com/logos/snapchat.svg)
+
 ## Header 2
 ### Header 3
 
