@@ -1,7 +1,8 @@
 ## Welcome to GitHub Pages
 
 Welcome to my page! im pleased to see you want to learn more about me. I will now show you through pictures some of my interests. 
-
+# Favorite Apps
+![Snapchat!](https://cdn.worldvectorlogo.com/logos/snapchat.svg)
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
@@ -11,8 +12,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Favorite Apps
-![Snapchat!](https://cdn.worldvectorlogo.com/logos/snapchat.svg)
+
 
 ## Header 2
 ### Header 3
